@@ -1,5 +1,4 @@
-# Single Cell LIMS presentation
+# Notorious aquatic microbe - Flavobacterium Psychrophilum
 
-Presentation of the Single Cell LIMS for the [Ettemalab](http://ettemalab.org).
-Development through [BILS](http://bils.se).  Presentation made with
+Presentation of Flavobacterium Psychrophilum.  Presentation made with
 [reveal.js](http://lab.hakim.se/reveal-js/).
